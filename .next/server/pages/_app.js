@@ -130,7 +130,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Layout_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Layout.module.css */ "./components/layout/Layout.module.css");
 /* harmony import */ var _Layout_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_Layout_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "C:\\React-Apps\\Next-App\\news-app\\components\\layout\\Layout.js";
+var _jsxFileName = "C:\\React-Apps\\Next-App\\meetups-app\\components\\layout\\Layout.js";
 
 
 
@@ -190,7 +190,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "C:\\React-Apps\\Next-App\\news-app\\components\\layout\\MainNavigation.js";
+var _jsxFileName = "C:\\React-Apps\\Next-App\\meetups-app\\components\\layout\\MainNavigation.js";
 
 
 
@@ -3095,7 +3095,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_globals_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_globals_css__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_layout_Layout__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/layout/Layout */ "./components/layout/Layout.js");
 
-var _jsxFileName = "C:\\React-Apps\\Next-App\\news-app\\pages\\_app.js";
+var _jsxFileName = "C:\\React-Apps\\Next-App\\meetups-app\\pages\\_app.js";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); keys.push.apply(keys, symbols); } return keys; }
 

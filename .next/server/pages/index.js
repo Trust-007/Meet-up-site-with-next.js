@@ -110,7 +110,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _MeetupItem_module_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./MeetupItem.module.css */ "./components/meetups/MeetupItem.module.css");
 /* harmony import */ var _MeetupItem_module_css__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_MeetupItem_module_css__WEBPACK_IMPORTED_MODULE_3__);
 
-var _jsxFileName = "C:\\React-Apps\\Next-App\\news-app\\components\\meetups\\MeetupItem.js";
+var _jsxFileName = "C:\\React-Apps\\Next-App\\meetups-app\\components\\meetups\\MeetupItem.js";
 
 
 
@@ -222,7 +222,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _MeetupList_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./MeetupList.module.css */ "./components/meetups/MeetupList.module.css");
 /* harmony import */ var _MeetupList_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_MeetupList_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "C:\\React-Apps\\Next-App\\news-app\\components\\meetups\\MeetupList.js";
+var _jsxFileName = "C:\\React-Apps\\Next-App\\meetups-app\\components\\meetups\\MeetupList.js";
 
 
 
@@ -279,7 +279,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _Card_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Card.module.css */ "./components/ui/Card.module.css");
 /* harmony import */ var _Card_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Card_module_css__WEBPACK_IMPORTED_MODULE_1__);
 
-var _jsxFileName = "C:\\React-Apps\\Next-App\\news-app\\components\\ui\\Card.js";
+var _jsxFileName = "C:\\React-Apps\\Next-App\\meetups-app\\components\\ui\\Card.js";
 
 
 function Card(props) {
@@ -331,7 +331,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_3__);
 
 
-var _jsxFileName = "C:\\React-Apps\\Next-App\\news-app\\pages\\index.js";
+var _jsxFileName = "C:\\React-Apps\\Next-App\\meetups-app\\pages\\index.js";
 
 
 

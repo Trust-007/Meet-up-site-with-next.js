@@ -106,7 +106,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
 
 
-var _jsxFileName = "C:\\React-Apps\\Next-App\\news-app\\components\\meetups\\MeetupDetails.js";
+var _jsxFileName = "C:\\React-Apps\\Next-App\\meetups-app\\components\\meetups\\MeetupDetails.js";
 
 const MeetUpDetails = props => {
   return /*#__PURE__*/Object(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["jsxDEV"])(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__["Fragment"], {
@@ -160,7 +160,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var mongodb__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(mongodb__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _components_meetups_MeetupDetails__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../components/meetups/MeetupDetails */ "./components/meetups/MeetupDetails.js");
 
-var _jsxFileName = "C:\\React-Apps\\Next-App\\news-app\\pages\\[meetupId].js";
+var _jsxFileName = "C:\\React-Apps\\Next-App\\meetups-app\\pages\\[meetupId].js";
 
 
 
